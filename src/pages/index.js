@@ -195,7 +195,7 @@ export default (() => {
 					color="--white"
 					sm-font="normal 500 30px/1.2 &quot;Inter&quot;, sans-serif"
 				>
-					Personalized Health Care On Your Phone
+					A Graph is on the Phone (This is a Test)
 				</Text>
 				<Text
 					font="--base"
