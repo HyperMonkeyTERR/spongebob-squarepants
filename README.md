@@ -17,10 +17,10 @@
          alt="Create React App version" />
   </a>
   
-  <a href="https://github.com/HyperMonkeyTERR/Quarkly-Repo/pulls">
-    <img src="https://badgen.net/github/prs/HyperMonkeyTERR/Quarkly-Repo" alt="Pull Request Amount">
+  <a href="https://github.com/HyperMonkeyTERR/spongebob-squarepants/pulls">
+    <img src="https://badgen.net/github/prs/HyperMonkeyTERR/spongebob-squarepants" alt="Pull Request Amount">
   </a>
-  <img src="https://badgen.net/github/last-commit/HyperMonkeyTERR/Quarkly-Repo" alt="Last commit date" />
+  <img src="https://badgen.net/github/last-commit/HyperMonkeyTERR/spongebob-squarepants" alt="Last commit date" />
             
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"

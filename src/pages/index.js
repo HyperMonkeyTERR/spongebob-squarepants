@@ -51,7 +51,7 @@ export default (() => {
 				empty-min-height="64px"
 				empty-border-color="LightGray"
 			>
-				<Image height="auto" src="https://uploads.quarkly.io/6123949e957019001e284458/images/logo.svg?v=2021-09-21T20:30:52.302Z" width="100%" max-width="171px" />
+				<Image height="auto" src="https://i.chzbgr.com/full/9527766784/h5BD635A3/animal-spongebob-squarepants-acting-like-a-chicken-pecking-the-floor" width="100%" />
 			</Box>
 			<Box
 				empty-min-height="64px"
@@ -184,7 +184,7 @@ export default (() => {
 					lg-margin="0px 0px 8px 0px"
 					sm-font="normal 500 16px/1.6 &quot;Inter&quot;, sans-serif"
 				>
-					$11/mo. — no insurance needed
+					Who lives in a pineapple under the sea?{" "}
 				</Text>
 				<Text
 					lg-text-align="left"
@@ -195,7 +195,7 @@ export default (() => {
 					color="--white"
 					sm-font="normal 500 30px/1.2 &quot;Inter&quot;, sans-serif"
 				>
-					A Graph is on the Phone (This is a Test)
+					SPONGEBOB SQUAREPANTS!
 				</Text>
 				<Text
 					font="--base"
@@ -206,7 +206,7 @@ export default (() => {
 					color="--white"
 					opacity="1"
 				>
-					Our board-certified doctors are available 24/7.
+					Welcome, and thanks for visiting! (Author: Nima Darmanki Farahani, With Support From Shervin Darmanki Farahani)
 				</Text>
 				<Box
 					lg-margin="32px 0px 0px 0px"
@@ -241,7 +241,7 @@ export default (() => {
 						border-style="solid"
 						border-color="--color-primary"
 					>
-						Get Stared
+						Get Started
 					</Link>
 					<Link
 						padding="15px 30px 15px 30px"
@@ -289,7 +289,7 @@ export default (() => {
 					width="100%"
 					max-height="450px"
 					md-margin="0px 0px 30px 0px"
-					src="https://uploads.quarkly.io/6123949e957019001e284458/images/iPhone%20X.png?v=2021-09-21T20:44:05.312Z"
+					src="https://pyxis.nymag.com/v1/imgs/7aa/21a/c1de2c521f1519c6933fcf0d08e0a26fef-27-spongebob-squarepants.rsquare.w700.jpg"
 					lg-position="relative"
 					lg-left="-5px"
 					max-width="100%"
@@ -318,7 +318,7 @@ export default (() => {
 					md-width="100%"
 					border-radius="10px"
 					lg-max-height="366px"
-					src="https://images.unsplash.com/photo-1520333789090-1afc82db536a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+					src="https://m.media-amazon.com/images/M/MV5BNDUwNjBkMmUtZjM2My00NmM4LTlmOWQtNWE5YTdmN2Y2MTgxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
 					left="-140px"
 					max-width="100%"
 					object-fit="cover"
@@ -347,7 +347,7 @@ export default (() => {
 						lg-font="normal 500 16px/1.6 &quot;Inter&quot;, sans-serif"
 						md-font="normal 500 14px/1.6 &quot;Inter&quot;, sans-serif"
 					>
-						Contact a doctor in a snap
+						Contact Spongebob in a snap
 					</Text>
 				</Box>
 				<Text
@@ -360,7 +360,7 @@ export default (() => {
 					color="--indigo"
 					sm-font="normal 800 30px/1.2 &quot;Inter&quot;, sans-serif"
 				>
-					Take Care of Your Health
+					Take Care of Bikini Bottom
 				</Text>
 				<Text
 					font="--base"
@@ -370,7 +370,7 @@ export default (() => {
 					margin="0px 0px 25px 0px"
 					color="--dark"
 				>
-					Use our free symptom checker to compare your or your children's symptoms to those of others. Your results will help a doctor to treat you immediately if you decide to consult with a specialist.
+					Use our free symptom checker to compare your or your children's symptoms to those of others. Your results will help Spongebob in making you a Krabby Patty if you decide to consult with a specialist.
 				</Text>
 				<Link
 					href="/login"
