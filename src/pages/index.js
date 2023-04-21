@@ -206,7 +206,7 @@ export default (() => {
 					color="--white"
 					opacity="1"
 				>
-					Welcome, and thanks for visiting! (Author: Nima Darmanki Farahani, With Support From Shervin Darmanki Farahani)
+					Welcome to our website, and thank you for visiting! (Author: Nima Darmanki Farahani, With Support From Shervin Darmanki Farahani)
 				</Text>
 				<Box
 					lg-margin="32px 0px 0px 0px"
