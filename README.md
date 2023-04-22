@@ -3,7 +3,7 @@
   <img src="http://uploads.quarkly.io/readme/cra/readme-quarkly-and-cra.png" width="480px" alt="Create-React-App project from Quarkly">
 </p>
 
-<h1 align="center">Methone</h1>
+<h1 align="center">spongebob-squarepants</h1>
 
 <h4 align="center">This Create-React-App project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
 
